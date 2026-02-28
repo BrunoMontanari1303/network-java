@@ -1,0 +1,7 @@
+{
+    "sensor_airtemp_meetroom": 0,
+    "actuator_airtemp_guarita": 30,
+    "sensor_airhumid_meetroom": 0,
+    "actuator_light_guarita": "on",
+    "actuator_light_meetroom": "off"
+}
